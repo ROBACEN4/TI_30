@@ -2,3 +2,5 @@ Arquivo de texto1
 
 
 Arquivo edit pelo GITHUB
+
+Arquivo editado pelo PC
